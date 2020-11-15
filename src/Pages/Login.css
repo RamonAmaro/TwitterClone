@@ -1,5 +1,6 @@
 .login-wrapper {
   height: 100%;
+  width: 100%;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -36,7 +37,6 @@
   cursor: pointer;
   font-size: 16px;
 }
-
 .login-wrapper form button:hover {
   background: #42a1db;
 }
